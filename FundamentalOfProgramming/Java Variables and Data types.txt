@@ -1,0 +1,81 @@
+﻿Assignment Solutions
+
+
+1. What is statically typed and Dynamically typed Programming Language?
+Ans: Statically typed:-  if the memory of the variable is given during the compilation time itself then such types of programming languages are called as “Statically typed” Eg: C,C++,Java
+
+
+Dynamically typed:-if the memory of the variable is given during the execution time itself then such types of  programming language are called as  Dynamic typed  Eg: Python,JavaScript etc.
+
+
+2. What is the variable in Java?
+Ans: Variable is a type of container which contains the data is called variable.There are different - different types of variables which contain different types of data.
+
+
+Variables are classified into two types such as-
+a.primitive types :- such types of variables containing single data(such as int a=10;) are called primitive types.
+Primitive data type i.e-
+. byte 
+. short 
+. int etc
+ 
+b.Non-primitive types:such types of variables which contain multiple similar types of data are called Non-primitive types .
+Strings
+Arrays
+Classes
+Interfaces
+
+
+3. How To Assign a Value To Variable?
+Ans: In statically typed programming language have some unique way to assign a value to variable such as:-
+Int a=10;
+String name=”Vinay”;
+Char ch=’v’; and ect.
+
+
+In this above examples have four things i.e
+Variable name,identifier,assigning operator,and its value.
+
+
+4. What are Primitive Data types in Java?
+Ans :if the variable contains only one data is called primitive data type .Ex:-
+byte
+short
+int
+long
+char
+double etc.
+
+
+5. What are the Identifiers in Java?
+Ans: Identifier is a symbolic name which is used for identification purposes.Identifier such as variable name,method name,class name etc .such as -
+String name=”Vinay”; 
+In the above example name is an identifier which is used for identification.
+
+
+Method name:-
+Public static void Sum(){};
+
+
+Here Sum() is a method name.
+
+
+6. List the Operators in Java?
+Ans: Operators in Java:
+
+
+- Arithmetic operators
+- Relational Operator
+-Assignment Operator
+-Unary Operator
+-Bitwise Operators
+
+
+
+
+7.Explain about Increment and Decrement operators and give an examples
+Ans: Increment and Decrement Operators in Java are used to increase or decrease the value by 1. For example, Incremental operator ++ is useFul to increase the existing variable value by 1 (i = i + 1). Moreover, the decrement operator – – is useFul to decrease or subtract the current value by 1 (i = i – 1). The syntax of both increment and decrement operators in Java Programming to preFix or postFix is
+
+
+Increment Operator E ++x or x++   
+Decrement OperatorE --x or x-

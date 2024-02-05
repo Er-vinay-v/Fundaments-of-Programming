@@ -1,0 +1,58 @@
+﻿Questions with Answers:-
+
+
+1.what is programming language?
+Ans: A programming language is a set of instructions and syntax used to create software 
+Programmes. Some of ey features of programming languages include : 
+  a.Syntax
+  b.Data Types
+  c.Variables etc.
+2.why do we need   programming languages?
+Ans:Programming language enables us to write efficient programs and develop online solutions such as - mobile application,web applications, and games,etc.Programming is used to automate,maintain,assemble,measure and interpret the processing of the data and information.
+
+
+3.Features of Java
+Ans: Multiple type of features introduced by java programming language like:-
+
+
+a.Object Oriented :-it is a computer programming model that organizes software design around data,or object ,rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+
+
+b.Platform Independent:-Java is a platform independent language because it is compiled to a bytecode that can be run on any device that has a java virtual machine(JVM). This means that you can write a java program on one platform(such as windows) and then run it on a different platform(such as macOs or Linux) operating systems.
+
+
+c.Simple - Because Java incorporates many C/C++ capabilities, it is simple to understand.etc
+
+
+4.What is an object?
+Ans:An object is considered a real world entity which has state and behavior .In real world all the physical things considered as an object in java such as Buss,Table,Student ,etc.All those things that have some properties are called objects
+
+
+5.what is class?
+Ans: In simple terms class is a blueprint of a real world entity .Hence ,all objects in a given class will have the same methods or properties.For example: in the real world  a specific cat is an object of the “cats ” class.
+
+
+6.Explain about the java main() method?
+Ans: The main() method is the starting point for JVM to start execution of a java program. Without the main() method , JVM will not execute the program . The syntax of the main() method is ➖
+ 
+
+
+Public static void main(String[] argos) where
+
+
+Public:it is an access specifier.we should use a public keyword before the main() method so that JVM can identify the execution point of the program.
+
+
+Static:It is a Java reserved keyword .If we create a method or function to directly access inside the main method without creating an object then we need to use a static keyword.
+
+
+void : It is a type of keyword .When we create a method and i do not want to return anything ,in this case we need to use the void keyword.So main() method does not return anything.
+
+
+main: It is a default signature which is predefined in the JVM. It is called by JVM to execute a program line by line and end the execution after completion of this method. We can also overload the main() method.
+
+
+String[] args: The main() method also accepts some data from the user. It accepts a group of strings, which is called a string array. It is used to hold the command line arguments in the form of string values.
+
+
+Args[]: it means a create array which contains only String values.
